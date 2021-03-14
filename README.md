@@ -1,1 +1,1 @@
-# aws-acm-operator
+# aws-operator
